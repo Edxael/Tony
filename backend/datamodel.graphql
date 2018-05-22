@@ -1,0 +1,9 @@
+type List {
+  id: ID! @unique
+  name: String!
+  type: String!
+  price: String
+  aisle: String!
+  inList: Boolean
+
+}

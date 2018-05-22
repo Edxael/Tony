@@ -1,0 +1,75 @@
+.menuButton{
+    text-decoration: none;
+    padding-right: 12%;
+    font-size: 35px;
+    font-family: "Freestyle Script";
+}
+.all{
+
+}
+.menu1{
+    padding: 5%;
+
+
+}
+
+.templateCont{
+    border: 2px solid black;
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: aqua;
+    font-family: "Comic Sans MS";
+    padding: 15px 20px 15px 20px ;
+}
+.title{
+    color: chartreuse;
+    font-family: "Freestyle Script";
+    font-size: 75px;
+    padding: 10px 20px 10px 30px ;
+
+    margin: -10px;
+}
+
+.gralButton{
+
+}
+.words{
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.parent{*/
+    /*background-color: slategray;*/
+    /*padding: 7px;*/
+    /*display:flex;*/
+/*}*/
+/*.left{*/
+    /*width: 50%;*/
+
+/*}*/
+/*.right{*/
+    /*width: 50%;*/
+/*}*/
